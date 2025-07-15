@@ -4,6 +4,8 @@
 ### 📁 Prepared by
 **Tolulope Emuleomo (The Data Profesor)**
 
+[📄 Full Excel Project](https://docs.google.com/spreadsheets/d/1JZ-1rEsHJyQoGgheqCyd0U4i1_EFlFuw/edit?usp=sharing&ouid=108354535572573899779&rtpof=true&sd=true)
+
 ---
 
 ## 🧾 Introduction
